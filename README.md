@@ -1,4 +1,7 @@
-## Description
+
+[![DOI](https://zenodo.org/badge/915041148.svg)](https://doi.org/10.5281/zenodo.14630326)
+
+# Description
 
 This project takes as input one or more PubMed CSV exports, placed in the [data/pubmed/results/](data/pubmed/results/) directory. It adds useful columns to the CSV file, maps the PubMed IDs to Microsoft Academic Graph IDs, uses the MAGIDs to look up citation and disruption data from Wu et al., 2023 to score each article, and saves the scored output to a styled Excel spreadsheet.
 
