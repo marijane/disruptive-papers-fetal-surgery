@@ -5,7 +5,6 @@ authors:
     given-names: Marijane
     orcid: https://orcid.org/0000-0001-5059-4132
 title: "Jupyter Notebook code for Disruptive Papers in Fetal Surgery"
-version: 1.0.0
+version: v1.0.0
 date-released: 2025-01-10
 url: https://github.com/marijane/disruptive-papers-fetal-surgery
-license: "GNU AGPLv3"
