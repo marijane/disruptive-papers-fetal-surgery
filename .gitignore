@@ -2,4 +2,6 @@
 .venv/
 .vscode/
 *.txt
+drafts/
+final/
 target/
